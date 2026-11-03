@@ -1,0 +1,6 @@
+{
+  "name": "Shiraz SAD AI Studio — Gamified Learning & 9-Project Suite",
+  "description": "Full-stack Django & React AI application implementing the Shiraz University Fall 2026 Systems Analysis and Design Project Proposals with Gemini LLM core, gamification rules engine, SM-2 spaced repetition, UML design docs, and all 9 AI project sandboxes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
